@@ -1,6 +1,5 @@
 import PymemLinux
 import offsets
-import main
 
 def getUnresolvedBasePointer():
     unresolvedBasePointer = offsets.region + offsets.localPlayer
