@@ -1,2 +1,4 @@
-# pythonapexlinuxcheatbase
-a base for a apex cheat. Made with python and for linux.
+# ApexCheatBase
+A Python base for an Apex cheat, made for Linux.
+
+Uses PyMem for memory manipulation.
